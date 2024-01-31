@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SuperANUP07
-- 👀 I’m interested in Fronted developer
+- 👀 I’m interested in Frontend developer
 - 🌱 I’m currently learning ReactJs and advanced excel
-- 💞️ I’m looking to collaborate on anykind of project
+- 💞️ I’m looking to collaborate on any kind of project
 - 📫 How to reach me ...
           --> e-mail 📧 -> anupsahu0703@gmail.com
           -->Mo. No. -> +919399592497
